@@ -19,4 +19,6 @@ def square_array(numbers)
   while numbers[counter] do
     sqr_numbers<<numbers[counter]*numbers[counter]
     counter += 1
-    
+  end
+  sqr_numbers
+end
