@@ -23,4 +23,3 @@ def square_array(numbers)
   sqr_numbers
 end
 
-square_array([1,2,3])
